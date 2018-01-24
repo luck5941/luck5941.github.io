@@ -1,0 +1,43 @@
+{
+	"sobremi": {
+		"visualizador": "'word'",
+		"contenido": "'abautMe.html'",
+		"id": "'sobremi'"
+		
+	},
+
+	"contacto": {
+		"visualizador": "'word'",
+		"contenido": "'contactme.html'",
+		"id": "'contacto'"
+	},
+
+	"media":{
+		"visualizador": "'nautilus'",
+		"contenido": "'img.json'",
+		"id": "'media'"
+	},
+ 
+	"posters":{
+		"visualizador": "'nautilus'",
+		"contenido": "'img.json'",
+		"id": "'posters'"
+	},
+ 
+	"retoque":{
+		"visualizador": "'nautilus'",
+		"contenido": "'img.json'",
+		"id": "'retoque'"
+	},
+	"tresD":{
+		"visualizador": "'nautilus'",
+		"contenido": "'img.json'",
+		"id": "'tresD'"
+	},
+ 	"fotografia":{
+		"visualizador": "'nautilus'",
+		"contenido": "'img.json'",
+		"id": "'fotografia'"
+	}
+	
+}

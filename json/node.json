@@ -1,0 +1,50 @@
+{
+	"desktop": {
+		"trabajos": {
+			"circle": "trabajos",
+			"parent": "desktop",
+			"classSelector": "'enlacesDirectos'",
+
+			"tresD" : {
+				"circle": "tresD",
+				"parent": "trabajos",
+				"classSelector": "'trabajos_selector'"
+			},
+
+			"fotografia" : {
+				"circle" : "fotografia",
+				"parent": "trabajos",
+				"classSelector": "'trabajos_selector'"
+			},
+
+			"media" : {
+				"circle" : "media",
+				"parent": "trabajos",
+				"classSelector": "'trabajos_selector'"
+			},
+			"posters" : {
+				"circle" : "posters",
+				"parent": "trabajos",
+				"classSelector": "'trabajos_selector'"
+			},
+
+			"retoque" : {
+				"circle" : "retoque",
+				"parent": "trabajos",
+				"classSelector": "'trabajos_selector'"
+			}
+		},
+
+		"contacto": {
+			"circle": "contacto",
+			"parent": "desktop",
+			"classSelector": "'enlacesDirectos'"
+		},
+
+		"sobremi": {
+			"circle": "sobremi",
+			"parent": "desktop",
+			"classSelector": "'enlacesDirectos'"
+		}
+	}
+}
